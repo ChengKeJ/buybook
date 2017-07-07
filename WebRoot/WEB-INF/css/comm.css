@@ -1,0 +1,90 @@
+
+		div{
+			
+			width:980px;
+			/*border: 1px red solid;*/
+			margin: 0 auto;
+			background: #EEEFF5;
+		}
+		
+		#top{
+			height:140px;
+
+		}
+		#searchstyle{
+			height:40px;
+		}
+		#searchtextstyle{
+			height:30px;
+			width:300px;
+			margin-left: 300px;
+
+		}
+		#submitstyle{
+			
+			background-color: #FF5902; /* 姗欒壊 */
+    		border: none;
+    		color: white;
+    		padding: 10px 40px;
+    		text-align: center;
+    		text-decoration: none;
+    		font-family:"\5FAE\8F6F\96C5\9ED1";/*瀛椾綋锛氬井杞泤榛� */
+    		display: inline-block;
+    		font-size: 16px;
+    		}
+		
+		#mainbody{
+			background: #EEEFF5;
+			height:600px;
+			width: 980px;
+			
+		}
+		#left{
+			background: #EEEFF5;
+			border: 1px gray solid;
+			height:600px;
+			width:220px;			
+			float:left;
+		}
+		#main{
+
+			background: #EEEFF5;
+			/*border: 1px black solid;*/
+			height:600px;
+			width:980px;		
+
+		}
+		
+		#footer{
+			background:  #EEEFF1;			
+		}
+		dl{
+			height:230px;
+			width:210px;
+			margin-left:10px;
+			border: 2px #DFD7FF solid;
+			float:left;
+
+		}
+		dl img{
+			height:180px;
+			width:140px;
+		}
+		#left p{
+			height:200px;
+			font-size: 12px;
+			background:green;
+			border: 1px red solid;
+		}
+ul#nav
+{ 
+	width:940px; 
+	height:50px; 
+	background:#6788B6;
+	margin:0 auto;
+
+} 
+ul#nav li{display:inline; height:60px} 
+ul#nav li a{display:inline-block; padding:0 20px; height:50px; line-height:60px;
+ color:#FFFFFF; font-family:"\5FAE\8F6F\96C5\9ED1"; font-size:16px} 
+ul#nav li a:hover{background:#FF5801}/*璁剧疆榧犳爣婊戣繃鎴栨偓鍋滄椂鍙樺寲鐨勮儗鏅鑹� */ 
